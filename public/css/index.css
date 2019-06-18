@@ -1,0 +1,10 @@
+.mainHeader{
+    position: fixed;
+}
+.listaMainMenu {
+    list-style: none;
+    display:flex;
+    padding-left: 10px;
+    padding-right: 10px
+}
+
