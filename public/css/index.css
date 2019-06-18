@@ -4,6 +4,10 @@
 .listaMainMenu {
     list-style: none;
     display:flex;
+
+}
+
+.listaMainMenu li {
     padding-left: 10px;
     padding-right: 10px
 }
